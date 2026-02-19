@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Abdullah Khalid Khan 👋<br><br>💡 Data & AI Engineer passionate about building intelligent and scalable systems.  <br>🤖 Focused on Machine Learning, Generative AI, and Computer Vision.  <br>📍 Karachi, Pakistan  <br><br> 👨‍💻 About Me<br><br>I work at the intersection of **Data Engineering and Artificial Intelligence**, designing systems that transform raw data into intelligent decision-making tools.<br><br>Currently building AI-powered solutions involving:<br>- Machine Learning & Deep Learning<br>- Computer Vision (YOLO-based systems)<br>- Generative AI & LLM applications<br>- Backend integration with Python & Django<br>- PostgreSQL-based data systems<br><br>I am particularly interested in AI-driven automation, sustainability-focused technologies, and scalable intelligent systems.
 
 
